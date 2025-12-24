@@ -1,4 +1,4 @@
-# 🛡️ Advanced Network Port Scanner & Vulnerability Intelligence Tool
+# Network Port Scanner & Vulnerability Intelligence Tool
 
 <div align="center">
 
